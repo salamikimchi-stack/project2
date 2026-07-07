@@ -1,0 +1,32 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple",
+    "price": 342
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft",
+    "price": 165
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Google",
+    "price": 178
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla",
+    "price": 250
+  },
+  {
+    "symbol": "NFLX",
+    "name": "Netflix",
+    "price": 450
+  },
+  {
+    "symbol": "YT",
+    "name": "Youtube",
+    "price": 400
+  }
+]
